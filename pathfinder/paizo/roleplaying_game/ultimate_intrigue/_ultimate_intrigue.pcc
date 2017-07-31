@@ -42,7 +42,7 @@ CLASS:ui_classes.lst
 #COMPANIONMOD:ui_companionmods.lst
 #EQUIPMENT:ui_equip.lst
 #EQUIPMOD:ui_equipmods.lst
-#ABILITY:ui_feats.lst
+ABILITY:ui_feats.lst
 #KIT:ui_kits.lst
 #WEAPONPROF:ui_profs_weapon.lst
 SKILL:ui_skills.lst
